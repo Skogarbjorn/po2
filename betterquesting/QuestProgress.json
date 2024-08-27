@@ -762,7 +762,7 @@
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0,
+                1,
                 0,
                 0
               ]
@@ -875,12 +875,14 @@
           "index": 0
         },
         {
-          "completeUsers": [],
+          "completeUsers": [
+            "90c136c3-25bd-4cd3-9845-fbd69cf49fe1"
+          ],
           "userProgress": [
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0
+                1
               ]
             }
           ],
@@ -1132,7 +1134,7 @@
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0,
+                1,
                 0
               ]
             }
@@ -2734,15 +2736,23 @@
       "questID": 121
     },
     {
-      "completed": [],
+      "completed": [
+        {
+          "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
+          "timestamp": 1995214,
+          "claimed": false
+        }
+      ],
       "tasks": [
         {
-          "completeUsers": [],
+          "completeUsers": [
+            "90c136c3-25bd-4cd3-9845-fbd69cf49fe1"
+          ],
           "userProgress": [
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0
+                1
               ]
             }
           ],
@@ -2999,7 +3009,7 @@
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
                 0,
-                0,
+                4,
                 0,
                 0
               ]
@@ -3064,7 +3074,7 @@
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0,
+                9,
                 0,
                 0
               ]
@@ -5029,12 +5039,14 @@
       "completed": [],
       "tasks": [
         {
-          "completeUsers": [],
+          "completeUsers": [
+            "90c136c3-25bd-4cd3-9845-fbd69cf49fe1"
+          ],
           "userProgress": [
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0
+                12
               ]
             }
           ],
@@ -5959,7 +5971,7 @@
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
                 0,
-                0,
+                1,
                 0,
                 0,
                 0
@@ -8580,12 +8592,14 @@
       "completed": [],
       "tasks": [
         {
-          "completeUsers": [],
+          "completeUsers": [
+            "90c136c3-25bd-4cd3-9845-fbd69cf49fe1"
+          ],
           "userProgress": [
             {
               "uuid": "90c136c3-25bd-4cd3-9845-fbd69cf49fe1",
               "data": [
-                0,
+                14,
                 1
               ]
             }
